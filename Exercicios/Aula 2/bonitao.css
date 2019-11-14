@@ -18,3 +18,11 @@ h2
 {
     color: red;
 }
+img 
+{
+    border: 200px solid black;
+    margin: 300px 300px 300px 300px solid blue;
+    padding: 150px 150px solid green;
+    height: 100px;
+    width: 100px;
+}
