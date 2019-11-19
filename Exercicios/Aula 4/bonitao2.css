@@ -1,20 +1,25 @@
 table, th, td
 {
-    border: 3px solid;
+    border: 2px solid;
 }
-#tdverdade
+#tdverdade, #tdverdade2, #tdverdade4
 {
     position: relative;
     top: -20px;
     left: 200px;
-    height: 400px;
-    width: 1000px;
+    height: 60%;
+    width: 60%;
 }
-#tdverdade2
+#tdverdade3
 {
     position: relative;
     top: -20px;
-    left: 200px;
-    height: 500px;
-    width: 700px;
+    left: 350px;
+    height: 40%;
+    width: 40%;
+}
+h1
+{
+    position: relative;
+    left: 450px;
 }
