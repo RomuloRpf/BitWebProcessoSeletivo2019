@@ -22,4 +22,18 @@ h1
 {
     position: relative;
     left: 450px;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 5vh;
+
+}
+#apenasocomeco
+{
+    font-size: 2em;
+    position: relative;
+}
+body
+{
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url("");
 }
